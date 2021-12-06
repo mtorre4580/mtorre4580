@@ -1,16 +1,18 @@
-### Hi there 👋
+### :wolf: Matias Daniel Torre
 
-<!--
-**mtorre4580/mtorre4580** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Engineer working mainly with React.js ecosystem.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programming: Javascript, TypeScript, Solidity
+- UI: React.js (Redux, Reselect, Inmutable.js, hooks, Context Api, GraphQL), Angular (RxJS, NgRx), HTML 5
+- Testing: Jest, Enzyme, Cypress, Puppeteer, React Testing Library, BackStopJS
+- Styling: CSS 3, SASS, styled-components, Bootstrap, ESLint, Prettier
+- Documentation: Storybook, Swagger
+- BD: MySQL, MongoDB, Redis
+- DevOps: Docker, Jenkins, New Relic, Datadog, Kibana, Bugsnag, Sentry, Graylog, AWS
+
+DApps: Solidity, Ganache, Truffle, web3
+
+CodePen: https://codepen.io/mtorre4580-fe
+
