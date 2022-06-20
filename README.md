@@ -1,18 +1,15 @@
 ### :wolf: Matias Daniel Torre
 
-Frontend Engineer working mainly with React.js ecosystem.
+FrontEnd Engineer with 8 years of experience, working mainly with React.js building components following atomic design
+principle to apply reusability, I have experience with performance improvements, WebViews integrations, A/B testing,
+Monitoring tools (Datadog, NewRelic, Sentry), Building APIs with Node.js with a large numbers of users
 
 ## Skills
 
-- Programming: Javascript, TypeScript, Solidity
-- UI: React.js (Redux, Reselect, Inmutable.js, hooks, Context Api, GraphQL), Angular (RxJS, NgRx), HTML 5
-- Testing: Jest, Enzyme, Cypress, Puppeteer, React Testing Library, BackStopJS
-- Styling: CSS 3, SASS, styled-components, Bootstrap, ESLint, Prettier
-- Documentation: Storybook, Swagger
-- BD: MySQL, MongoDB, Redis
-- DevOps: Docker, Jenkins, New Relic, Datadog, Kibana, Bugsnag, Sentry, Graylog, AWS
+Javascript, TypeScript, React.js, hooks, API Context, Redux, styled-components, Next.js, Node.js, Jest, Cypress, react-testing-libary, 
+HTML 5, CSS 3, SASS, Redis, MongoDB, MySQL, Jenkis, Docker, NewRelic, Datadog, Sentry, AWS, Solidity, Ganache, Truffle, web3, Remix, IPFS, infura.io.
 
-DApps: Solidity, Ganache, Truffle, web3
+My Repository: https://github.com/mtorre4580
 
-CodePen: https://codepen.io/mtorre4580-fe
+My CodePen: https://codepen.io/mtorre4580-fe
 
