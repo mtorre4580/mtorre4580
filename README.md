@@ -13,3 +13,6 @@ My Repository: https://github.com/mtorre4580
 
 My CodePen: https://codepen.io/mtorre4580-fe
 
+My Publications: https://medium.com/@mtorre4580
+
+Blog: https://mtorre4580.hashnode.dev
