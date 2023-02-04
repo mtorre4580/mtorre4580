@@ -10,4 +10,4 @@ Javascript, TypeScript, React.js, hooks, API Context, Redux, styled-components, 
 - My Repository: https://github.com/mtorre4580
 - My CodePen: https://codepen.io/mtorre4580-fe
 - My Publications: https://medium.com/@mtorre4580
-- My Blog: https://mtorre4580.hashnode.dev
+- My Gists: https://gist.github.com/mtorre4580
